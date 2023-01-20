@@ -1,0 +1,1 @@
+This repo holds lessons and exercises for Clustering.
